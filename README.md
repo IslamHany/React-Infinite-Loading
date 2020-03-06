@@ -27,6 +27,7 @@ FAQ
 ----
 
 ### How do I start the app?
-
-Start with `npm run dev`. I install a library called concurrently which will start both the server and the react app.
+In the root folder run `npm install` to install the server dependencies.
+cd into the public folder and run `npm install` to install React dependencies.
+cd into the root folder and run `npm run dev` to start the web app. I installed a library called concurrently which will start both the server and the react app.
 
